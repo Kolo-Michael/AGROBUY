@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Fresh Maize",
+    "description": "Organic maize",
+    "price": 500,
+    "quantity": 100,
+    "unit": "kg",
+    "category": "CATEGORY_OBJECT_ID",
+    "farmer": "FARMER_OBJECT_ID"
+  }
+]
+
